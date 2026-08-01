@@ -16,4 +16,4 @@ for port in range(1, 1025):
     s.close()
 
 print("\nScan Complete!")
-python scanner.py
+
